@@ -22,7 +22,6 @@ I like writing,sharing my knowledge with other engineers.
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Nodejs
 - 👯 I’m looking to collaborate on open source Flutter project 
-- 🤔 I’m looking for help with my one of open source project [Twitter Clone](https://github.com/TheAlphamerc/flutter_twitter_clone)
 - 💬 Ask me about Flutter | Cordova
 - 📫 How to reach me: [Github](https://github.com/atikur-rabbi), [Blog](https://blog.we2app.com) [Linkedin](linkedin.com/in/atikur-rabbi)
 - 😄 Pronouns:  He/him
