@@ -18,7 +18,16 @@ I like writing,sharing my knowledge with other engineers.
 
 ### Languages and Tools...
 
+<p align="center">
+  
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://github.com/atikur-rabbi/atikur-rabbi/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/atikur-rabbi/atikur-rabbi/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile_development" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/atikur-rabbi/atikur-rabbi/blob/master/assets/svg/dev/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/atikur-rabbi/atikur-rabbi/blob/master/assets/svg/dev/tools/visualstudio.svg" alt="visual_studio" style="vertical-align:top; margin:4px">
 
+----
+</p>
 
 
 <!--
