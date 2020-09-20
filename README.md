@@ -25,3 +25,7 @@ I like writing,sharing my knowledge with other engineers.
 - 💬 Ask me about Flutter | Cordova
 - 📫 How to reach me: [Github](https://github.com/atikur-rabbi), [Blog](https://blog.we2app.com), [Linkedin](linkedin.com/in/atikur-rabbi)
 - 😄 Pronouns:  He/him
+
+<a href="https://www.linkedin.com/in/atikur-rabbi"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://github.com/atikur-rabbi"><img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+<br /><br />
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atikur-rabbi)](https://github.com/atikur-rabbi/github-readme-stats)
