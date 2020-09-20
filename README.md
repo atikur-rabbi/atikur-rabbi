@@ -10,6 +10,9 @@ I like writing,sharing my knowledge with other engineers.
 ### Languages...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atikur-rabbi&count_private=true&layout=compact)]()
 
+
+*************
+
 ### Languages and Tools...
 
 <p align="center">
@@ -31,8 +34,9 @@ I like writing,sharing my knowledge with other engineers.
 
 </p>
 
-----
 
+----
+*************
 
 <!--
 **atikur-rabbi/atikur-rabbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
