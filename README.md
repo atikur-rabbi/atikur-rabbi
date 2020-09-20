@@ -9,7 +9,6 @@ I like writing,sharing my knowledge with other engineers.
 
 [![Atikur's github stats](https://github-readme-stats.vercel.app/api?username=atikur-rabbi)]()
 
-### Languages...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atikur-rabbi&count_private=true&layout=compact)]()
 
 
