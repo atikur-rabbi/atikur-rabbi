@@ -1,4 +1,5 @@
 ### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atikur-rabbi&label=Views&color=blue&style=plastic" alt="atikur-rabbi" /> </p>
 
 I am a Software engineer with experience in building intelligent & scalable applications using Flutter | Java | Cordova.
 I love mobile apps, distributed systems, open source projects and the challenges associated with them.
