@@ -2,7 +2,7 @@
 
 <p align="Left">
 <img src="https://komarev.com/ghpvc/?username=atikur-rabbi&label=Views&color=blue&style=plastic" alt="atikur-rabbi" /> 
-<a class="github-button" href="https://github.com/Atik" data-color-scheme="no-preference: dark; light: light; dark: light;" data-size="large" data-show-count="true" aria-label="Follow @Atik on GitHub"><img src="https://img.shields.io/github/followers/atikur-rabbi?label=follow&style=social%5D" alt="atikur-rabbi" /></a>
+<a class="github-button" href="https://github.com/atikur-rabbi" data-color-scheme="no-preference: dark; light: light; dark: light;" data-size="large" data-show-count="true" aria-label="Follow @Atik on GitHub"><img src="https://img.shields.io/github/followers/atikur-rabbi?label=follow&style=social%5D" alt="atikur-rabbi" /></a>
 </p>
 
 I am a Software engineer with experience in building intelligent & scalable applications using Flutter | Java | Cordova.
