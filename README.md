@@ -15,7 +15,7 @@ I like writing,sharing my knowledge with other engineers.
 [![Atikur's github stats](https://github-readme-stats.vercel.app/api?username=atikur-rabbi&show_icons=true&theme=dracula")]()
 
 ### Languages...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atikur-rabbi&count_private=true&layout=compact&langs_count=8)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atikur-rabbi&count_private=true&layout=compact&langs_count=8&hide=css,html)]()
 
 
 *************
