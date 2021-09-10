@@ -45,10 +45,10 @@ I like writing,sharing my knowledge with other engineers.
 
 ### I'm currently...
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Nodejs
-- 👯 I’m looking to collaborate on open source Flutter project 
-- 💬 Ask me about Flutter | Cordova
+- 🔭 I’m currently working on Nodejs, react, nextjs
+- 🌱 I’m also have knowladge about Spring, Flutter, Salesforce
+- 👯 I’m looking to collaborate on open source Nodejs project 
+- 💬 Ask me about UI/UX | React/Nextjs | Flutter
 - 📫 How to reach me: [Github](https://github.com/atikur-rabbi), [Blog](https://blog.we2app.com), [Linkedin](linkedin.com/in/atikur-rabbi)
 - 😄 Pronouns:  He/him
 
